@@ -1,0 +1,58 @@
+@media (min-width: 992px){
+	.col-lg-4{
+		float: left;
+	}
+	.col-lg-4{
+		width: 33.32%;
+	}
+}
+@media (min-width: 768px) and (max-width: 992px){
+	.col-md-6,.col-md-12{
+		float: left;
+	}
+	.col-md-6{
+		width: 50%;
+	}
+	.col-md-12{
+		width: 100%;
+	}
+}
+@media(max-width: 767px){
+}
+section{
+	box-sizing: border-box;
+	background-color: lightgray;
+	position: relative;
+	border:2px solid black;
+}
+#container{
+	border:0px;
+}
+p{
+	margin-top: 30px;
+	padding: 10px 10px 0px 10px;
+}
+.pTitle{
+	margin: 0px;
+	border:2px solid black;
+	box-sizing: border-box;
+	padding: 0px;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	float: right;
+	position: relative;
+	top: -2px;
+	right: -2px;
+
+
+}
+#title1{
+	background-color: tomato;
+}
+#title2{
+	background-color: lightgreen;
+}
+#title3{
+	background-color: gold;
+}
