@@ -1,0 +1,41 @@
+#header-nav{
+    border-radius: 0;
+}
+.navbar-brand h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1.5em;
+    line-height: .75;
+}
+#nav-list a{
+    color: aliceblue;
+    font-size: 1.2em;
+    text-align: center;
+}
+#nav-list a:hover{
+    background-color: slategray;
+}
+#collapsed-bar{
+    background-color: darkgray;
+}
+#ourMenu{
+    margin: auto;
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 30px;
+}
+.tile{
+    border: 2px solid gray;
+    background-color: beige;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+}
+.tile h3{
+    text-align: center;
+}
+.tile p{
+    padding: 0px 15px 10px 15px;
+}
+#main-content{
+    box-sizing: border-box;
+}
