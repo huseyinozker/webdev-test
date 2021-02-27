@@ -19,8 +19,6 @@
     background-color: darkgray;
 }
 #ourMenu{
-    margin: auto;
-    text-align: center;
     font-size: 3em;
     margin-bottom: 30px;
 }
@@ -29,9 +27,6 @@
     background-color: beige;
     margin-bottom: 30px;
     box-sizing: border-box;
-}
-.tile h3{
-    text-align: center;
 }
 .tile p{
     padding: 0px 15px 10px 15px;
